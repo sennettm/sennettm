@@ -43,6 +43,10 @@ in the signle quotes of ```direct = ''.```
 
 A histogram of the negative entropies in the alignment.
 
+<img width="357" alt="Histogram_H" src="https://user-images.githubusercontent.com/111892527/187763026-7e62d991-77a4-478b-8787-557b0f9a75d7.png">
 
 A plot of the negative entropy as a function of sites in the alignment.
+
+<img width="641" alt="Sites_H" src="https://user-images.githubusercontent.com/111892527/187763082-2dc98dd6-c4c2-494a-b84d-dc530072be14.png">
+
 
